@@ -271,7 +271,7 @@ p {
     position: absolute;
     left: -2rem;
     top: 0;
-    width: 120px;
+    width: 100px;
     height: 50px;
     border-radius: 50%;
     background: var(--primary-color);
